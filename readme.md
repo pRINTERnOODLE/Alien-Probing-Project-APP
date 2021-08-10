@@ -34,6 +34,8 @@ Typically no brim is required for the printed parts...EXCEPT FOR THE SHUTTLE (se
 
 - 2x m3x6 Neodimium pancake magnets [Amazon](https://www.amazon.com/Round-Multi-Use-Magnets-Refrigerator-Project/dp/B07G7ZMGT5/ref=sr_1_1?dchild=1&keywords=B07G7ZMGT5&qid=1628629286&s=home-garden&sr=1-1)
 
+- 1x OMRON D2F-01F (or similar Microswitch SPDT Subminiature) [Amazon](https://www.amazon.com/D2F-01F-Switch-Microswitch-Subminiature-Logitech/dp/B0062WNDLI/ref=sr_1_1?dchild=1&keywords=B0062WNDLI&qid=1628631471&s=electronics&sr=1-1)
+
 ### ABS Print Settings
 
 #### If printing all at once:
@@ -59,3 +61,21 @@ Typically no brim is required for the printed parts...EXCEPT FOR THE SHUTTLE (se
 ### Assembly Guide
 - step one
 Install the magnets in the "spaceship", strip some wire for connecting to the board, and cut ONE of the pen springs in half.
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step1.jpg)
+- step two
+Install your wires goinng from the board to the tool head
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step2.jpg)
+- step three
+Install the two cut springs into the spring holes on top of the wires and magnets (optionally solder the wires to the springs)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step3.jpg)
+- step four
+Install the 2x m3 heat set nuts on the bottom holes of the extruder fan and screw the "spaceship" assembly on the tool head
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step4a.jpg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step4b.jpg)
+- step five
+Install the Micro switch onto the "captive" making sure the switch pin is in correct alignment with the nozzle (machine right)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step5.jpg)
+- step six
+Cut and strip two small wires which will go from the microswitch to the screw "terminals". Solder each of the wires to the switch terminals marked COM and NC. The terminal post side of the wires can be wrapped around the post screws clockwise, or the wire can go in the screw hole followed by the screw.
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6a.jpg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6b.jpg)
