@@ -85,3 +85,4 @@ Install the Micro switch onto the "captive" making sure the switch pin is in cor
 Cut and strip two small wires which will go from the microswitch to the screw "terminals". Solder each of the wires to the switch terminals marked COM and NC. The terminal post side of the wires can be wrapped around the post screws clockwise, or the wire can go in the screw hole followed by the screw.
 ![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6a.jpg)
 ![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6b.jpg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6c.jpg)
