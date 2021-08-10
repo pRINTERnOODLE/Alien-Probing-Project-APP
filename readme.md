@@ -12,11 +12,11 @@ The M3x5mm hex screws used on the "captive" MUST be alloy steel and must be eith
 
 Typically no brim is required for the printed parts...EXCEPT FOR THE SHUTTLE (see print settings below)
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/front_overview.png) {:width="480px"}
-![Rear Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/rear_overview.png){:width="480px"}
-![Cross Section A](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/cross%20section%20a.png){:width="480px"}
-![Cross Section B](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/cross%20section%20b.png){:width="1280px"}
-![Rear](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/rear.png){:width="480px"}
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/front_overview.png)
+![Rear Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/rear_overview.png)
+![Cross Section A](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/cross%20section%20a.png)
+![Cross Section B](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/cross%20section%20b.png)
+![Rear](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/rear.png)
 
 
 
