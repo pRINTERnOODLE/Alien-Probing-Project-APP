@@ -12,21 +12,50 @@ The M3x5mm hex screws used on the "captive" MUST be alloy steel and must be eith
 
 Typically no brim is required for the printed parts...EXCEPT FOR THE SHUTTLE (see print settings below)
 
-![Front Overview](https://github.com/pRINTERnOODLE/Tiny-m-5015-tool-head/blob/main/images/overview.png)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/front_overview.png) {:width="480px"}
+![Rear Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/rear_overview.png){:width="480px"}
+![Cross Section A](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/cross%20section%20a.png){:width="480px"}
+![Cross Section B](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/cross%20section%20b.png){:width="480px"}
+![Rear](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/rear.png){:width="480px"}
+
+
 
 #### BOM (US Sources)
-##### Fans	
-- 2x Blower Fan 24V 5015 Dual Ball Bearing	High Speed [Amazon](https://www.amazon.com/WINSINN-Bearing-50x50x15mm-Extruder-Makerbot/dp/B07DB7DLMM/ref=sr_1_4?crid=3LCWO4ONS5G9I&dchild=1&keywords=5015+blower+fan+24v&qid=1626198168&sprefix=5015%2Caps%2C202&sr=8-4)
-
-OR
-- 2x Blower Fan 12V 5015 Dual Ball Bearing	High Speed [Amazon](https://www.amazon.com/WINSINN-Bearing-50x50x15mm-Extruder-Makerbot/dp/B07DB6132Q/ref=sr_1_4?crid=3LCWO4ONS5G9I&dchild=1&keywords=5015%2Bblower%2Bfan%2B24v&qid=1626198168&sprefix=5015%2Caps%2C202&sr=8-4&th=1)
-
-Other 5015's  should work depending on your requrements
 
 #### Hardware	
-- 4x M3 Heat Set Nut		[Amazon](https://www.amazon.com/iplusmile-Embedment-Threaded-Printing-Projects/dp/B087NBYF65/ref=sr_1_5?dchild=1&keywords=3mm+melt+in+nut&qid=1626198542&sr=8-5) 
-- 4x M3x8 BHCS		[Amazon](https://www.amazon.com/M3-0-50-Stainless-Button-Socket-Screws/dp/B077WZ1XK2/ref=sr_1_2?dchild=1&keywords=m3x8+bhcs&qid=1626198711&sr=8-2) - [Amazon alternate](https://www.amazon.com/M3-0-5X-Available-Stainless-Machine-Fastener/dp/B081JQL9GF/ref=sr_1_7?dchild=1&keywords=m3x8+bhcs&qid=1626198890&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sr=8-7)
+- 2x M3 Heat Set Nut		[Amazon](https://www.amazon.com/iplusmile-Embedment-Threaded-Printing-Projects/dp/B087NBYF65/ref=sr_1_1?dchild=1&keywords=B087NBYF65&qid=1628628888&sr=8-1)
+- 2x M3x6 BHCS		[Amazon](https://www.amazon.com/Button-Socket-Drive-Screws-Stainless/dp/B07QDWFFX3/ref=sr_1_1?dchild=1&keywords=B07QDWFFX3&qid=1628628840&s=industrial&sr=1-1)
 
-![Printed nozzle](https://github.com/pRINTERnOODLE/Tiny-m-5015-tool-head/blob/main/images/Printed%20v6%20nozzle.jpg)
-![Fan assembly](https://github.com/pRINTERnOODLE/Tiny-m-5015-tool-head/blob/main/images/fan%20assembled%20left.jpg)
-![Fans on toolhead](https://github.com/pRINTERnOODLE/Tiny-m-5015-tool-head/blob/main/images/fans%20on%20toolhead.jpg)
+- 2x m3x14 SHCS     [Amazon](https://www.amazon.com/iExcell-Stainless-Socket-Screws-Wrench/dp/B089KQV2WV/ref=sr_1_1?dchild=1&keywords=B089KQV2WV&qid=1628629199&s=industrial&sr=1-1)
+
+- 4x m2x10 SHCS self tapping     [Amazon](https://www.amazon.com/Hexagon-Socket-Tapping-Screws-M2x10mm/dp/B00YBMROKC/ref=sr_1_1?dchild=1&keywords=B00YBMROKC&qid=1628628787&s=hi&sr=1-1)
+
+- 3x m4x25 Pen spring   [Amazon](https://www.amazon.com/Customized-Galvanizing-Compression-Diameter4mm-Diameter25mm/dp/B08P8Z1J5S/ref=sr_1_1?dchild=1&keywords=B08P8Z1J5S&qid=1628628962&s=industrial&sr=1-1)
+
+- 2x m3x6 Neodimium pancake magnets [Amazon](https://www.amazon.com/Round-Multi-Use-Magnets-Refrigerator-Project/dp/B07G7ZMGT5/ref=sr_1_1?dchild=1&keywords=B07G7ZMGT5&qid=1628629286&s=home-garden&sr=1-1)
+
+### ABS Print Settings
+
+#### If printing all at once:
+- 0.2 layer height
+- 5 walls 
+- 5 top/bottom layers
+- 40% infill (cubic)
+- moderate print speed
+- 0.3 Z-hop
+- no supports
+- 10 line brim only on shuttle
+
+#### If printing just the shuttle:
+- 0.2 layer height
+- 3 walls 
+- 2 top/bottom layers
+- 100% infill (zigzag)
+- SLOW print speed (10mm/s or less is good)
+- no Z-hop
+- no supports
+- 10 line brim
+
+### Assembly Guide
+- step one
+Install the magnets in the "spaceship", strip some wire for connecting to the board, and cut ONE of the pen springs in half.
