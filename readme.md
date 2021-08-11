@@ -1,7 +1,7 @@
 ### APP Alien Probing Project
 
 Design prompts for this mod are: 
-- To provide a bed probing solution for he Tiny-M which requires no modifications to the core parts and no loss of X Y or Z axis travel.
+- To provide a bed probing solution for the Tiny-M which requires no modifications to the core parts and no loss of X Y or Z axis travel.
 
 Additional design parameters include: 
 - Keep the design envelope unchanged (fit inside panels etc)
@@ -13,9 +13,13 @@ The M3x5mm hex screws used on the "captive" MUST be alloy steel and must be eith
 Typically no brim is required for the printed parts...EXCEPT FOR THE SHUTTLE (see print settings below)
 
 ![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/front_overview.png)
+
 ![Rear Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/rear_overview.png)
+
 ![Cross Section A](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/cross%20section%20a.png)
+
 ![Cross Section B](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/cross%20section%20b.png)
+
 ![Rear](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/rear.png)
 
 
