@@ -1,7 +1,7 @@
 ### APP Alien Probing Project
 
 Design prompts for this mod are: 
-- To provide a bed probing solution of the Tiny-M which requires no modifications to the core parts and no loss of X Y or Z axis travel.
+- To provide a bed probing solution for he Tiny-M which requires no modifications to the core parts and no loss of X Y or Z axis travel.
 
 Additional design parameters include: 
 - Keep the design envelope unchanged (fit inside panels etc)
@@ -57,7 +57,8 @@ Typically no brim is required for the printed parts...EXCEPT FOR THE SHUTTLE (se
 - SLOW print speed (10mm/s or less is good)
 - no Z-hop
 - no supports
-- 10 line brim
+- 10 line 
+- modereate cooling
 
 ### Assembly & Physical Install Guide
 
