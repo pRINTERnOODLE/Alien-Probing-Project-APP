@@ -112,7 +112,9 @@ Assemble the "captive" into the "home planet" and make sure the locking mechanis
 - step eleven
 
 With the "captive" installed and locked in place loosly attach the entire "home planet" assembly to the right front upright 2020 extrusion low enough that the tool head will miss it when moved forward.
+
 With the power to the printer off, move the tool head forward and to the right so you can line up the "home planet" as you screw it on. The best alignment is when the "captive" screws just kiss the plastic of the "spaceship" is the tool head is moved forward...this alignment should "lift" the captive slightly and lock it in place on the tool head when fully set up. Leveling the "captive" screws can help this alignment. 
+
 With the power still off, unlock the captive by sliding the "shuttle" to the right and slowly move the tool head in and out of the docking possition checking for smoth operation. The "captive" should not get bumped off or hang up on the way in or out...adjust as needed.
 ![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11a.jpeg)
 ![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11b.jepg)
