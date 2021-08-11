@@ -90,33 +90,33 @@ Cut and strip two small wires which will go from the microswitch to the screw "t
 - step seven
 
 Install the two remaining m4x25 pen springs
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step7.jpg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step7.jpeg)
 - step eight
 
 Install the shuttle onto the shuttle spring
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8a.jpg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8b.jpg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8c.jpg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8a.jpeg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8b.jpeg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8c.jpeg)
 - step nine
 
 Thread both of the the self tapping screws all the way into the torsion spring arm and keep going untill they're stripped out and loose enough that they can wiggle a little.
 Now back one of the screws almost all the way out and install the torsion spring arm onto the torsion spring one screw at a time.
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step9a.jpg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step9b.jpg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step9a.jpeg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step9b.jpeg)
 - step ten
 
 Assemble the "captive" into the "home planet" and make sure the locking mechanism works to retain the captive. Now, WITH THE "CAPTIVE" LOCKED IN, adjust the torsion spring arm screws until there's very little room between the "torsion spring arm" and the "home planet"...do not bottom out this adjustment or binding and failure will result.
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step10a.jpg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step10b.jpg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step10a.jpeg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step10b.jpeg)
 
 - step eleven
 
 With the "captive" installed and locked in place loosly attach the entire "home planet" assembly to the right front upright 2020 extrusion low enough that the tool head will miss it when moved forward.
 With the power to the printer off, move the tool head forward and to the right so you can line up the "home planet" as you screw it on. The best alignment is when the "captive" screws just kiss the plastic of the "spaceship" is the tool head is moved forward...this alignment should "lift" the captive slightly and lock it in place on the tool head when fully set up. Leveling the "captive" screws can help this alignment. 
 With the power still off, unlock the captive by sliding the "shuttle" to the right and slowly move the tool head in and out of the docking possition checking for smoth operation. The "captive" should not get bumped off or hang up on the way in or out...adjust as needed.
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11a.jpg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11b.jpg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11c.jpg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11a.jpeg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11b.jepg)
+![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11c.jpeg)
 
 ### Firmware Setup
 - 1 REMOVE THE "CAPTIVE" probe switch from the "home planet" and grab a pen and paper.
