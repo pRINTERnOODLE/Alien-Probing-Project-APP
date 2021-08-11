@@ -119,23 +119,23 @@ With the power still off, unlock the captive by sliding the "shuttle" to the rig
 ![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11c.jpg)
 
 ### Firmware Setup
-- 1. REMOVE THE "CAPTIVE" probe switch from the "home planet" and grab a pen and paper.
-- 2. power on
-- 3. home x y z
-- 4. move bed down 20mm or more
-- 5. manually command the tool head toward the front right corner (x130 y20 ish for a standard 150mm Tiny-M)
-- 6. move the tool head write down the coordinate where the edge of the "spaceship" and the edge of the "shuttle" line up in X (mine is X150)
-- 7. write down the coordinate where the edge of the "spaceship" and the edge of the "shuttle" line up in Y (mine is Y5)
-- 8. now write down the same Y coordinate PLUS 12mm (mine is Y17 )
-- 9. from the point in step 7, move the tool head ONE MM at a time in X+ (right) untill the shuttle is locked open. Write this absolute coordinate down (mine is X153 Y5).
-- 10. move the tool head back about 4mm in X- (to the left) and place the "captive" probe switch into the "home planet" under the tool head...the probe should click in place under the tool head firmly onto the magnets (mine is X148.5 Y2). Write this coordinate down.
-- 11. move the tool head and attached probe in -Y (forward) and write down where the probe makes contact with the "home planet" (mine is X148.5 Y1)
-- 12. move the tool head and probe in Y+ (to the back) about 20mm (my coordinate for this is X149 Y25) observing the "captive" for smooth operation. Move it back and forth a few times. Adjust the tool head in X if needed untill you can move the probe in and out of the home planet along Y withot binding or shifting the "captive". Some fiddling with the "home planet" might be needed here to get it just right.
-- 13. move the tool head and probe into the "home planet" (coordinate from step 10)
-- 14. now move the tool head in -X (to the left) 10mm. This is the detachment coordinate (mine is X138.5 Y2). The probe should detach and remain home. If successful move on to step 15. If you hear a thump and or the probe flies out...move the "home planet" down very slightly until disengagement is smooth and recheck step 12. 
-- 15. now that you can move to the detachment coordinate and smoothly detach the probe, move the tool head in Y+ (back) 10mm and write this coordinate down (mine is Y11).
-- 16. move the tool head in X+ (to the right) to the X coordinate in step 9 (mine is X153)
-- 17. lock the "captive" in place by moving the tool head 1mm at a time in -Y (forward) untill the shuttle clicks and locks the captive in place (mine is X153 Y7).
+- 1 REMOVE THE "CAPTIVE" probe switch from the "home planet" and grab a pen and paper.
+- 2 power on
+- 3 home x y z
+- 4 move bed down 20mm or more
+- 5 manually command the tool head toward the front right corner (x130 y20 ish for a standard 150mm Tiny-M)
+- 6 move the tool head write down the coordinate where the edge of the "spaceship" and the edge of the "shuttle" line up in X (mine is X150)
+- 7 write down the coordinate where the edge of the "spaceship" and the edge of the "shuttle" line up in Y (mine is Y5)
+- 8 now write down the same Y coordinate PLUS 12mm (mine is Y17 )
+- 9 from the point in step 7, move the tool head ONE MM at a time in X+ (right) untill the shuttle is locked open. Write this absolute coordinate down (mine is X153 Y5).
+- 10 move the tool head back about 4mm in X- (to the left) and place the "captive" probe switch into the "home planet" under the tool head...the probe should click in place under the tool head firmly onto the magnets (mine is X148.5 Y2). Write this coordinate down.
+- 11 move the tool head and attached probe in -Y (forward) and write down where the probe makes contact with the "home planet" (mine is X148.5 Y1)
+- 12 move the tool head and probe in Y+ (to the back) about 20mm (my coordinate for this is X149 Y25) observing the "captive" for smooth operation. Move it back and forth a few times. Adjust the tool head in X if needed untill you can move the probe in and out of the home planet along Y withot binding or shifting the "captive". Some fiddling with the "home planet" might be needed here to get it just right.
+- 13 move the tool head and probe into the "home planet" (coordinate from step 10)
+- 14 now move the tool head in -X (to the left) 10mm. This is the detachment coordinate (mine is X138.5 Y2). The probe should detach and remain home. If successful move on to step 15. If you hear a thump and or the probe flies out...move the "home planet" down very slightly until disengagement is smooth and recheck step 12. 
+- 15 now that you can move to the detachment coordinate and smoothly detach the probe, move the tool head in Y+ (back) 10mm and write this coordinate down (mine is Y11).
+- 16 move the tool head in X+ (to the right) to the X coordinate in step 9 (mine is X153)
+- 17 lock the "captive" in place by moving the tool head 1mm at a time in -Y (forward) untill the shuttle clicks and locks the captive in place (mine is X153 Y7).
 
 
 #### RRF Example
