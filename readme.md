@@ -64,82 +64,93 @@ Typically no brim is required for the printed parts...EXCEPT FOR THE SHUTTLE (se
 
 - step one
 
-Install the magnets in the "spaceship", strip some wire for connecting to the board, and cut ONE of the pen springs in half.
+Install the magnets in the "spaceship", strip some wire for connecting to the main control board, and cut ONE of the pen springs in half.
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step1.jpg)
+![inatall magnets](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step1.jpg)
 
 - step two
 
-Install your wires going from the board to the tool head
+Install your wires going from the main board to the tool head
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step2.jpg)
+![install wires](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step2.jpg)
 
 - step three
 
 Install the two cut springs into the spring holes on top of the wires and magnets (optionally solder the wires to the springs)
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step3.jpg)
+![install springs](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step3.jpg)
 
 - step four
 
-Install the 2x m3 heat set nuts on the bottom holes of the extruder fan and screw the "spaceship" assembly on the tool head
+Install the 2x m3 heat set nuts on the bottom holes of the extruder fan and screw the "spaceship" assembly on the tool head and terminate your probe wires to your main board.
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step4a.jpg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step4b.jpg)
+![install het set nuts](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step4a.jpg)
+
+![install spaceship](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step4b.jpg)
 
 - step five
 
 Install the Micro switch onto the "captive" making sure the switch pin is in correct alignment with the nozzle (machine right)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step5.jpg)
+
+![install switch](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step5.jpg)
 
 - step six
 
 Cut and strip two small wires which will go from the microswitch to the screw "terminals". Solder each of the wires to the switch terminals marked COM and NC. The terminal post side of the wires can be wrapped around the post screws clockwise, or the wire can go in the screw hole followed by the screw.
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6a.jpg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6b.jpg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6c.jpg)
+![install wires](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6a.jpg)
+
+![install more wires](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6b.jpg)
+
+![install all the wires](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step6c.jpg)
 
 - step seven
 
 Install the two remaining m4x25 pen springs
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step7.jpeg)
+![install the main springs](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step7.jpeg)
 
 - step eight
 
 Install the shuttle onto the shuttle spring
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8a.jpeg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8b.jpeg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8c.jpeg)
+![install the shuttle](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8a.jpeg)
+
+![really install the shuttle](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8b.jpeg)
+
+![there you go...installed](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step8c.jpeg)
 
 - step nine
 
 Thread both of the the self tapping screws all the way into the torsion spring arm and keep going untill they're stripped out and loose enough that they can wiggle a little.
 Now back one of the screws almost all the way out and install the torsion spring arm onto the torsion spring one screw at a time.
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step9a.jpeg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step9b.jpeg)
+
+![strip those screws](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step9a.jpeg)
+
+![install install install](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step9b.jpeg)
 
 - step ten
 
 Assemble the "captive" into the "home planet" and make sure the locking mechanism works to retain the captive. Now, WITH THE "CAPTIVE" LOCKED IN, adjust the torsion spring arm screws until there's very little room between the "torsion spring arm" and the "home planet"...do not bottom out this adjustment or binding and failure will result.
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step10a.jpeg)
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step10b.jpeg)
+Lock and unlock the shuttle a few times and loosen off the torsion spring arm screws as needed for proper operation.
+
+![put it all on the machine](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step10a.jpeg)
+
+![yes we're close now](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step10b.jpeg)
 
 - step eleven
 
 With the "captive" installed and locked in place loosly attach the entire "home planet" assembly to the right front upright 2020 extrusion low enough that the tool head will miss it when moved forward.
 
-With the power to the printer off, move the tool head forward and to the right so you can line up the "home planet" as you screw it on. The best alignment is when the "captive" screws just kiss the plastic of the "spaceship" is the tool head is moved forward...this alignment should "lift" the captive slightly and lock it in place on the tool head when fully set up. Leveling the "captive" screws can help this alignment. 
+With the power to the printer off, move the tool head forward and to the right so you can line up the "home planet" as you screw it on. The best alignment is when the "captive" screws just kiss the plastic of the "spaceship" as the tool head is moved forward...this alignment should "lift" the captive slightly and lock it in place on the tool head when properly set up. Leveling the "captive" screws can help this alignment (screw them in or out relative to eachother). 
 
 With the power still off, unlock the captive by sliding the "shuttle" to the right and slowly move the tool head in and out of the docking possition checking for smoth operation. The "captive" should not get bumped off or hang up on the way in or out...adjust as needed.
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11a.jpeg)
+![check alignment](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11a.jpeg)
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11b.jepg)
+![check agian](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11b.jpeg)
 
-![Front Overview](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11c.jpeg)
+![check and adjust till it looks good](https://github.com/pRINTERnOODLE/Alien-Probing-Project-APP/blob/main/images/step11c.jpeg)
 
 
 ### Firmware Setup
