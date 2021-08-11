@@ -140,26 +140,41 @@ With the power still off, unlock the captive by sliding the "shuttle" to the rig
 
 #### RRF Example
 Now two custom macros can be written
+
 ;load.g
+
 ; called to load the APP
+
 G90                     ;   absolute moves
 
 G1 X150 Y17 F99999      ;   coordinate from step 6 and 8
+
 G1 Y5 F2000             ;   coordinate from step 7
+
+
 G1 X153                 ;   coordinate from step 9
+
 G1 X148.5               ;   coordinate from step 10
+
 G1 Y2                   ;   coordinate from step 11
+
 G1 Y17                  ;   coordinate from step 8
  
 ;unload.g 
+
 ; called to unload the APP
 G90                     ;   absolute moves
 
 G1 X148.5 Y17 F99999    ;   coordinate from step 6 and 8
+
 G1 Y1 F2000             ;   coordinate from step 11   
+
 G1 X138.5               ;   coordinate from step 14
+
 G1 Y11                  ;   coordinate from step 15
+
 G1 X153                 ;   coordinate from step 16
+
 G1 Y7                   ;   coordinate from step 17
  
 
